@@ -36,6 +36,15 @@ A repository to make your programming life easier
     Wappalyzer
     React dev tools
     Momentum
+    
+    CSS Scan
+    Keyframes
+    Sizzy
+    Kontrast
+    WhatFont
+    Designers Ruler
+    Web Developer
+    Lightshot
 
 
 ### Fake API Testing
