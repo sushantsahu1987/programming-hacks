@@ -24,3 +24,9 @@ A repository to make your programming life easier
     Vetur 
 
 ### Chrome Extensions
+
+
+
+### Fake API Testing
+
+    http://jsonplaceholder.typicode.com/ 
