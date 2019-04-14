@@ -25,6 +25,17 @@ A repository to make your programming life easier
 
 ### Chrome Extensions
 
+    Javascript and css code beautifier
+    Web developer
+    Gistbox clipper
+    Github autocomplete
+    Marmoset
+    Window resizer
+    Colorzilla
+    Lorem ipsum generator
+    Wappalyzer
+    React dev tools
+    Momentum
 
 
 ### Fake API Testing
